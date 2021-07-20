@@ -18,7 +18,7 @@ If it's something more business related, email me: turpinpaulpro@gmail.com
 
 ## ⚡ Some stats about me! 
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Druxys)](https://github.com/anuraghazra/github-readme-stats)
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Druxys&theme=gruvbox_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Druxys/Druxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
