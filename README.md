@@ -4,7 +4,7 @@ I'm a web & mobile developer.
 
 ## 🔭 Current
 
-I'm currently working on [Il s'appelle reviens](https://www.facebook.com/snoopdoggybag/) - we're making an app to reduce the food wastage in the restaurants. 
+I'm currently working with [Si2P](https://www.centre-formation-securite.fr/) - we're making an e-learning app. 
 
 ## ⚡️ Experience
 
