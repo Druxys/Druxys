@@ -8,7 +8,7 @@ I'm currently working with [Si2P](https://www.centre-formation-securite.fr/) - w
 
 ## ⚡️ Experience
 
-I like to say that I'm full-stack, but I'm very experienced in the real-time backend world. I develop product with [Symfony](https://symfony.com/) to build an api, and I pair that with Angular & Ionic on the frontend. I always tried new things like featured frameworks or new languages, like React or VueJS.
+I like to say that I'm full-stack, but I'm very experienced in the real-time backend world. I develop product with [Symfony](https://symfony.com/) or [Laravel](https://laravel.com/) to build an api, and I pair that with the frontend. I always tried new things like featured frameworks or new languages, like React or VueJS.
 I've been working with Symfony for about 3 years, PHP for almost 4, and JavaScript for more than 5 years.
 
 ## 📫 Contact
