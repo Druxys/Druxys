@@ -31,7 +31,7 @@ If it's something more business related, email me: turpinpaulpro@gmail.com
 ## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.druxys.fr)
-[<img align="left" alt="JetBrains" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jetbrains/jetbrains.png" />](https://www.druxys.fr)
+[<img align="left" alt="JetBrains" width="26px" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" />](https://www.druxys.fr)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.druxys.fr)
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.druxys.fr)
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://www.druxys.fr)
