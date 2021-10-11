@@ -15,19 +15,18 @@ I'm currently working with [Si2P](https://www.centre-formation-securite.fr/) - w
 I like to say that I'm full-stack, but I'm very experienced in the real-time backend world. I develop product with [Symfony](https://symfony.com/) or [Laravel](https://laravel.com/) to build an api, and I pair that with the frontend. I always tried new things like featured frameworks or new languages, like React or VueJS.
 I've been working with Symfony for about 3 years, PHP for almost 4, and JavaScript for more than 5 years.
 
-### 📫 Connect with me:
-
-[<img align="left" alt="druxys.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="DruxysPT | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="paul-turpin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-If it's something more business related, email me: turpinpaulpro@gmail.com
+## 📫 Connect with me:
+[<img align="left" alt="paul-turpin | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/paul-turpin/)
+[<img align="left" alt="druxys.fr" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://www.druxys.fr)
+[<img align="left" alt="DruxysPT | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/DruxysPT)
 
 <br />
 
+If it's something more business related, email me: turpinpaulpro@gmail.com
 
 
-### Languages and Tools:
+
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -52,7 +51,7 @@ If it's something more business related, email me: turpinpaulpro@gmail.com
 ---
 
 <details>
-  <summary>:zap: ⚡ Some stats about my Git! </summary>
+  <summary>:zap: Some stats about my Git! </summary>
 
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Druxys&theme=gruvbox)](https://github.com/Druxys/)
 
