@@ -21,6 +21,8 @@ I've been working with Symfony for about 3 years, PHP for almost 4, and JavaScri
 [<img align="left" alt="DruxysPT | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/DruxysPT)
 
 <br />
+<br />
+
 
 If it's something more business related, email me: turpinpaulpro@gmail.com
 
