@@ -17,8 +17,13 @@ To contact me quickly and easily, [DM me on Twitter](https://twitter.com/DruxysP
 
 If it's something more business related, email me: turpinpaulpro@gmail.com
 
-## ⚡ Some stats about my Git! 
+
+<details>
+  <summary>:zap: ## ⚡ Some stats about my Git! </summary>
 
 [![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Druxys&theme=gruvbox)](https://github.com/Druxys/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Druxys&theme=gruvbox&layout=compact)](https://github.com/Druxys/)
+</details>
+
+
