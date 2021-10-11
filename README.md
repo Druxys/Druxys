@@ -1,6 +1,10 @@
 ### Hi there, I'm Paul! 👋
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DruxysPT)
+<br />
 I'm a web & mobile developer. 
+
+
 
 ## 🔭 Current
 
@@ -44,6 +48,8 @@ If it's something more business related, email me: turpinpaulpro@gmail.com
 
 <br />
 <br />
+
+---
 
 <details>
   <summary>:zap: ⚡ Some stats about my Git! </summary>
