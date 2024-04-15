@@ -23,7 +23,7 @@ I've been working with Symfony for about 3 years, PHP for almost 4, and JavaScri
 <br />
 
 
-If it's something more business related, email me: turpinpaulpro@gmail.com
+If it's something more business related, email me: contact@paulturpin.fr
 
 
 
