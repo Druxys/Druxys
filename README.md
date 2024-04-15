@@ -7,7 +7,7 @@ I'm a web & mobile developer.
 
 ## 🔭 Current
 
-I'm currently working with [Si2P](https://www.centre-formation-securite.fr/) - we're making an e-learning app. 
+I'm currently working with freelancing and make side-porject for myself! :) 
 
 ## ⚡️ Experience
 
