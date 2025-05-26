@@ -7,7 +7,7 @@ I'm a web & mobile developer.
 
 ## 🔭 Current
 
-I'm currently working with freelancing and make side-porject for myself! :) 
+I'm currently freelancing and make side-porject for myself! :) 
 
 ## ⚡️ Experience
 
